@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Outer circle - stroke only -->
+  <circle cx="16" cy="16" r="13" fill="none" stroke="#EE6332" stroke-width="2.5"/>
+  <!-- Inner dot -->
+  <circle cx="16" cy="16" r="4" fill="#EE6332"/>
+</svg>

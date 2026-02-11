@@ -1,0 +1,10 @@
+# robots.txt for opinion.so
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://opinion.so/sitemap.xml
+
+# Disallow admin or private areas (if any in the future)
+# Disallow: /admin/
+# Disallow: /api/
